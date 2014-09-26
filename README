@@ -1,0 +1,23 @@
+ The time has come for YOU to make a game.Hangman game!
+ I have started for you here, but there is a lot of functionality missing.
+ My challenge for you is to build on this and make the greatest game.Hangman game ever.
+
+ Some suggestions to functionality you can add:
+  
+- Saving of already guessed letters
+- Not allowing the user to guess (and get points for) a letter he / she have previously guessed.
+- Give the user feedback on whether or not the guess is correct
+- Showing the user where in the word the character is located
+     (Example: 
+     "You guessed: E
+     This is correct!
+     _ E _ _ E _ _ _ _ _")
+- Make an illustration of the hanged man
+- Show the user guesses he made that weren't correct 
+     (Exampe: 
+     "You guessed: E
+     This is correct!
+     _ E _ _ E _ _ _ _ _"
+     "Wrong guesses: C, K, P)
+- Ask the user if he / she wants to play again 
+     - Count wins and losses and display this to the user 
