@@ -1,15 +1,15 @@
 package game;
 
-import java.lang.String;import java.lang.System;import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * Created by Kristine Sundt Lorenzten
  */
 public class Hangman {
 
-    public static final String word = "WESTERDALS";
-    public static int score, guesses;
+    public static final String word = "SPAGHETTIMONSTER";
     public static final int MAX_GUESSES = 20;
+    public static int score, guesses;
     public static Scanner scanner;
 
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ public class Hangman {
 
     public static void printRules() {
 
-        System.out.println("Welcome to game.Hangman! These are the rules:\n" +
+        System.out.println("Welcome to Hangman! These are the rules:\n" +
                 "You have 20 guesses to guess the word.\n" +
                 "The word is " + word.length() + " characters long.\n" +
                 "Get " + word.length() + " points before you run out of turns to win!\n" +
