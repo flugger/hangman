@@ -1,8 +1,29 @@
- The time has come for YOU to make a game.Hangman game!
- I have started for you here, but there is a lot of functionality missing.
- My challenge for you is to build on this and make the greatest game.Hangman game ever.
+WELCOME!
 
- Some suggestions to functionality you can add:
+The time has come for YOU to make a game.Hangman game!
+I have started for you here, but there is a lot of functionality missing.
+My challenge for you is to build on this and make the greatest Hangman game ever.
+
+---
+
+SHARING IS CARING!
+
+I would love to see all your solutions to this, and to share your project, simply do the following:
+
+- Make a github account
+- Go to https://github.com/kristine-sl/Hangman
+- Fork the project (press the "fork" button on the top right)
+- Clone the project to your computer with your own link
+- (Have fun learning how to use Github)
+- Make changes, have fun, and then push those to your repo
+- Make sure the repo is public, and then post a link to it to the forum on ITL under
+Programmering 1 (PG1100-14) / Repetisjonsforelesninger
+
+---
+
+THE POSSIBILITIES ARE (ALMOST) ENDLESS
+
+Some suggestions to functionality you can add:
   
 - Saving of already guessed letters
 - Not allowing the user to guess (and get points for) a letter he / she have previously guessed.
@@ -20,4 +41,4 @@
      _ E _ _ E _ _ _ _ _"
      "Wrong guesses: C, K, P)
 - Ask the user if he / she wants to play again 
-     - Count wins and losses and display this to the user 
+    - Count wins and losses and display this to the user 
