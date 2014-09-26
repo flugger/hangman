@@ -75,6 +75,7 @@ public class Hangman {
 
         for (int i = 0; i < word.length(); i++) {
 
+            // Check every letter to see if it matches. Helps with revealing.
             if (word.charAt(i) == letter) {
                 score++;
             }
